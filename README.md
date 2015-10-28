@@ -1,2 +1,2 @@
-# vimfiles
-My Vimfiles
+# .vim
+My .vim folder
