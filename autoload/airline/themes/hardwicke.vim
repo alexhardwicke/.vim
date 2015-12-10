@@ -104,7 +104,7 @@ function! airline#themes#hardwicke#refresh()
         \ 'airline_c': [s:NMi[0].g, '', s:NMi[0].t, '', s:NMi[2]]}
 
   let g:airline#themes#hardwicke#palette.normal = airline#themes#generate_color_map(
-        \ ['005F00' , 'AFD700' , 22 , 148 ], 
+        \ ['#EEE8D3', '#267BD2',        15,         4, s:N1[2]], 
         \ [s:N2[0].g, s:N2[1].g, s:N2[0].t, s:N2[1].t, s:N2[2]],
         \ [s:N3[0].g, s:N3[1].g, s:N3[0].t, s:N3[1].t, s:N3[2]])
 
