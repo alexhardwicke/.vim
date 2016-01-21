@@ -46,6 +46,3 @@
 [submodule "bundle/vim-operator-flashy"]
 	path = bundle/vim-operator-flashy
 	url = https://github.com/haya14busa/vim-operator-flashy
-[submodule "bundle/tagbar"]
-	path = bundle/tagbar
-	url = https://github.com/majutsushi/tagbar.git
